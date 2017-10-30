@@ -9,8 +9,7 @@ This is a small version of a working Steam Inventory Cache Server on EZTrade.gg
 
 
 Dependencies:
-``
-var app = require('express')();
+``var app = require('express')();
 
 var request = require('request');
 
@@ -24,7 +23,6 @@ var SteamUser = require("steam-user");
 
 var botMaster = require("csgo-floats");
 
-var pretty = require('express-prettify');
-``
+var pretty = require('express-prettify');``
 
 @Author: David Vu
