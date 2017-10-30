@@ -1,7 +1,8 @@
 Way2Heaven-Eztrade Inventory Cache Server written in NodeJS
 
 This is a small version of a working Steam Inventory Cache Server on my website EZTrade.gg
-(Sorry for the messy code, I haven't had the time to create a nice public version of this code)
+
+(Sorry about the messy code, I haven't had the time to create a nice public version of this code)
 
 
 ## Features:
