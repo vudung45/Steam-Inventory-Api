@@ -30,6 +30,8 @@ This is a small version of a working Steam Inventory Cache Server on my website 
 
     var botMaster = require("csgo-floats");
     
- 
+ ## Installation:
+    1. Install all the dependencies
+    2. run `node server.js`
 
 @Author: David Vu
